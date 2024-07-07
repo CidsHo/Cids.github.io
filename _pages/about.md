@@ -16,7 +16,7 @@ I am a VR enthusiast, and my primary development platform is the Quest 3. I am p
 
 My research interest includes Virtual Reality Experience Design, Creative-Support Virtual Reality, Embodied and Multimodal Interaction.
 
-Seeking a PhD position in the field of Virtual Reality Research and Human-Computer Interaction.
+***Seeking a PhD position in the field of Virtual Reality Research and Human-Computer Interaction.***
 
 REALITY IS VIRTUALITY IS REALITY...
 
