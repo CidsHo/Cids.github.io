@@ -26,10 +26,10 @@ REALITY IS VIRTUALITY IS REALITY...
 # Publications 
 - **ShadowPlayVR: Understanding Traditional Shadow Puppetry Performance Techniques Through Non-Intuitive Embodied Interactions.**
    ***Yihao He.***
-*In VRST ’23: 29th ACM Symposium on Virtual Reality Software and Technology Proceedings.* [DOI](10.1145/3611659.3617226)
+*In VRST ’23: 29th ACM Symposium on Virtual Reality Software and Technology Proceedings.* [DOI](https://dl.acm.org/doi/10.1145/3611659.3617226)
 -	 **Shadow Costar: Exploring Collaborative Performances in Virtual Reality.**
   ***Yihao He.***
-  *In Proceedings of the 11th International Conference on Human-Agent Interaction.* [DOI](10.1145/3623809.3623943)
+  *In Proceedings of the 11th International Conference on Human-Agent Interaction.* [DOI](https://doi.org/10.1145/3623809.3623943)
 
 # Educations
 - *2021 - 2024*, MFA, Tongji University. 
