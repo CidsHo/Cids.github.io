@@ -10,7 +10,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Greetings from Yihao He (Cids Ho). I'm a interactive media art designer and HCI researcher. 
+**Greetings from Yihao He (Cids Ho)!** 
+
+I'm a interactive media art designer and HCI researcher. 
 
 I am a VR enthusiast, and my primary development platform is the Quest 3. I am passionate about recreating real-world art experiences in virtual reality and have designed many rich interactive experiences for this purpose. I am currently dedicated to integrate virtual reality into art design workflow.
 
