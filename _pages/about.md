@@ -21,6 +21,7 @@ My research interest includes Virtual Reality Experience Design, Creative-Suppor
 REALITY IS VIRTUALITY IS REALITY...
 
 # News
+- *2024.10*: &nbsp;🎉🎉 New work regarding integrating XR technology into traditional art design workflow to be published in ISMAR 2024.
 - *2024.08*: &nbsp;🎉🎉 New work regarding virtual public space design and user behavior study to be published in HCII 2024. 
 
 # Publications 
