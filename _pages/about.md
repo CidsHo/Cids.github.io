@@ -23,6 +23,7 @@ My research interest includes Virtual Reality Experience Design, Creative-Suppor
 REALITY IS VIRTUALITY IS REALITY...
 
 # News
+- *2024.10*: &nbsp;🎉🎉 New work to be published in Siggraph Asia 2024, see you then!
 - *2024.10*: &nbsp;🎉🎉 New work to be published in ISMAR 2024.
 - *2024.08*: &nbsp;🎉🎉 New work to be published in HCII 2024. 
 
