@@ -22,12 +22,16 @@ My research interest includes Virtual Reality Experience Design, Creative-Suppor
 
 REALITY IS VIRTUALITY IS REALITY...
 
-# News
-- *2024.10*: &nbsp;🎉🎉 New work to be published in Siggraph Asia 2024, see you then!
-- *2024.10*: &nbsp;🎉🎉 New work to be published in ISMAR 2024.
-- *2024.08*: &nbsp;🎉🎉 New work to be published in HCII 2024. 
-
 # Publications 
+- **Architecting Social VR: Exploring Encounter and Serendipitous Interactions in Virtual Public Spaces.**
+   ***Yihao He.***
+*In HCII ’24.* [DOI](https://doi.org/10.1007/978-3-031-78531-3_2)
+- **Not Just a Gimmick: A Preliminary Study on Designing Interactive Media Art to Empower Embedded Culture's Practitioner.**
+   ***Yihao He.***
+*In SIGGRAPH ASIA ’24.* [DOI](https://doi.org/10.1145/3681756.3697872)
+- **ShadowRehearsal: Enhancing Traditional Art Design Workflows with XR Technology - A Preliminary Case Study of Shadow Puppetry.**
+   ***Yihao He.***
+*In ISMAR ’24: 2024 IEEE International Symposium on Mixed and Augmented Reality.* [DOI](https://doi.org/10.1109/ismar-adjunct64951.2024.00072)
 - **ShadowPlayVR: Understanding Traditional Shadow Puppetry Performance Techniques Through Non-Intuitive Embodied Interactions.**
    ***Yihao He.***
 *In VRST ’23: 29th ACM Symposium on Virtual Reality Software and Technology Proceedings.* [DOI](https://dl.acm.org/doi/10.1145/3611659.3617226)
@@ -37,7 +41,6 @@ REALITY IS VIRTUALITY IS REALITY...
 
 # Educations
 - *2021 - 2024*, MFA, Tongji University. 
-- *2017 - 2021*, B.M.  Zhongnan University of Economics and Law. 
 
 # Project Experience
 - *2022-2024*, Multimodal Interactive Audio Design in Augmented Reality Environments, Tongji University, China.
